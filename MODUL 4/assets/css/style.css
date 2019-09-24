@@ -1,0 +1,17 @@
+h1{
+	font-family: forte;
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+	font-size: 75px;
+}
+body{
+	background-image: url('../img/bg.jpg');
+}
+table{
+	font-family: arial black;
+}
+table, img{
+	height: 250px;
+	width: 250px;
+}
